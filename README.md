@@ -10,7 +10,7 @@ Aquí tens una selecció dels meus treballs recents, organitzats per àrees tecn
 
 **📊 Dades, Visualització i Bases de Dades**
 * 🏀 **[Anàlisi Rendiment Sub20 CBIMMA](https://github.com/Abel-00/Projecte_rendiment_u20)** — Exploració i anàlisi de dades amb **SQL**.
-* 📈 **[Power BI Project](https://github.com/Abel-00/Power-BI-Project)** — Projecte pràctic d'anàlisi i intel·ligència de negoci amb **Power BI**.
+* 📈 **[Power BI Project](https://github.com/Abel-00/Power-BI-Project)** — Projecte pràctic d'anàlisi  amb **Power BI**.
 * 📉 **[Tableau Project](https://github.com/Abel-00/Tableau-Project)** — Creació de quadres de comandament interactius i visualització de dades.
 * 🍃 **[MongoDB Project](https://github.com/Abel-00/bdnrmongoged25-grup3)** — Desenvolupament amb bases de dades NoSQL basades en documents.
 * 🕸️ **[Neo4j Project](https://github.com/Abel-00/Neo4j_1709303)** — Implementació i treball amb bases de dades orientades a grafs.
