@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋
 
 ### 🚀 Projectes destacats
 
@@ -9,7 +9,8 @@ Aquí tens una selecció dels meus treballs recents, organitzats per àrees tecn
 * 🍛 **[Indian Food Recognition](https://github.com/Abel-00/Indian-Food-Recognition)** — Model de classificació de menjar indi utilitzant SVM.
 
 **📊 Dades, Visualització i Bases de Dades**
-* 🏀 **[Anàlisi Rendiment Sub20 CBIMMA](https://github.com/Abel-00/Projecte_rendiment_u20)** — Exploració i anàlisi de dades amb **SQL**.
+* 🏀 **[Anàlisi Rendiment Sub20 CBIMMA](https://github.com/Abel-00/Projecte_rendiment_u20)** — Anàlisi de rendiment dels jugadors amb **SQL**.
+* 🏀 **[Informes de l'equip rival (CB IMMA)](https://github.com/Abel-00/Informes_2025-26)** — Realització d'informes dels equips rivals a partir d'arxius JSON.
 * 📈 **[Power BI Project](https://github.com/Abel-00/Power-BI-Project)** — Projecte pràctic d'anàlisi  amb **Power BI**.
 * 📉 **[Tableau Project](https://github.com/Abel-00/Tableau-Project)** — Creació de quadres de comandament interactius i visualització de dades.
 * 🍃 **[MongoDB Project](https://github.com/Abel-00/bdnrmongoged25-grup3)** — Desenvolupament amb bases de dades NoSQL basades en documents.
